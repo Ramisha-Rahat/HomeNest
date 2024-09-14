@@ -1,16 +1,23 @@
 # homenestshop
 
-A new Flutter project.
+HomeNext-Furniture Shop
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+The Furniture App is a Flutter application designed to showcase and manage furniture items. This app leverages Firebase for authentication and database services, while using the Provider package for state management. 
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **User Authentication**: Secure user sign-up and login functionality using Firebase Authentication.
+- **Furniture Listings**: Browse and view a variety of furniture items.
+- **Cart Management**: Add items to a cart for review and purchase.
+- **Wishlist**: Save favorite items for future reference.
+- **Firebase Integration**: Real-time updates and data management with Firebase Firestore.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Flutter**: UI framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Firebase**: Backend platform providing Authentication, Firestore Database, and hosting services.
+- **Provider**: State management solution to handle the app's state and logic.
+- **Firebase Firestore**: Cloud-hosted NoSQL database for storing and syncing data in real-time.
+- **Firebase Authentication**: Securely handle user authentication and management.
