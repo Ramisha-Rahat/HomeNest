@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602042931306",
+    "project_id": "crud-abaad",
+    "storage_bucket": "crud-abaad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602042931306:android:0ac865f6bb1b25ca251213",
+        "android_client_info": {
+          "package_name": "com.homenest.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQ_6hPhaQH0XzbjTy0vVeh495Md5dapc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
